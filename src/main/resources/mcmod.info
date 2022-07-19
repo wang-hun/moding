@@ -1,0 +1,16 @@
+[
+{
+  "modid": "orientalmagic",
+  "name": "东洋魔法",
+  "description": "试试水写的一个魔法mod，也许会火呢？",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["WH-亡魂"],
+  "credits": "WH",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
