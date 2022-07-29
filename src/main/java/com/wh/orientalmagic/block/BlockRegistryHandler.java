@@ -11,11 +11,13 @@ public class BlockRegistryHandler
 {
 
 	public static final CinnabarOre B_CINNABAR_ORE=new CinnabarOre();
+	public static final CinnabarBlock B_CINNABAR_BLOCK=new CinnabarBlock();
 	
 	@SubscribeEvent
 	public static void onRegistry(Register<Block> event) 
 	{
 		IForgeRegistry<Block> registry=event.getRegistry();
 		registry.register(B_CINNABAR_ORE);
+		registry.register(B_CINNABAR_BLOCK);
 	}
 }

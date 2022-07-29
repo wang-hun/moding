@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube",
+    "textures":{
+    
+    "all": "orientalmagic:blocks/cinnabar_block"
+    }
+    
+}

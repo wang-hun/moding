@@ -1,2 +1,6 @@
 item.orientalmagic:body_dust.name=body dust
 tile.orientalmagic:cinnabar_ore.name=cinnabar ore
+itemGroup.Orientalmagic=Oriental magic
+item.orientalmagic:cinnabar.name=cinnabar 
+item.orientalmagic:smite_wooden_sword.name=smite wooden sword
+tile.orientalmagic:cinnabar_block.name=cinnabar block

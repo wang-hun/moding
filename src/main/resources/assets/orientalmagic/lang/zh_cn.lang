@@ -1,2 +1,6 @@
 item.orientalmagic:body_dust.name=尸 尘
 tile.orientalmagic:cinnabar_ore.name=朱砂矿
+itemGroup.Orientalmagic=东洋魔法
+item.orientalmagic:cinnabar.name=朱砂石 
+item.orientalmagic:smite_wooden_sword.name=桃木剑
+tile.orientalmagic:cinnabar_block.name=朱砂块

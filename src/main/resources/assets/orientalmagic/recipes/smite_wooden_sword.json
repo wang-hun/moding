@@ -1,0 +1,30 @@
+{
+  "result": {
+    "nbt": "{ench:[{lvl:5s,id:17s}]}",
+    "item": "orientalmagic:smite_wooden_sword",
+    "type": "minecraft:item_nbt"
+  },
+    "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " x ",
+    "pwp",
+    " s "
+  ],
+
+  "key": {
+    "p":{ 
+      "type": "forge:ore_dict",
+      "ore": "logWood"
+    },
+    "w": {
+      "item": "minecraft:wooden_sword"
+    },
+    "x": {
+      "item": "orientalmagic:cinnabar"
+    },
+    "s": {
+      "type": "forge:ore_dict",
+      "ore": "stickWood"
+    }
+  }
+}

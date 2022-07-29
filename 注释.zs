@@ -73,3 +73,5 @@
     "sound":"dirt"
     }
 }
+//工具不写blockstates
+//model参照上面

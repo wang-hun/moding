@@ -18,7 +18,7 @@ public class EventHandler
 		{
 			//§ =alt+167 § 详情使用见注释文件
 			String message ="§6§o@东洋魔法 §r§4此mod处于测试阶段，如有bug及好的建议。\n"+
-							"§4欢迎反馈至 §e§n邮箱3555617336@163.com";
+							"§4欢迎反馈至 §e§n邮箱3555617336@QQ.com";
 			TextComponentString txet=new TextComponentString(message);
 			entity.sendMessage(txet);
 			//打开世界会自动弹出的话

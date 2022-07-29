@@ -1,0 +1,15 @@
+{
+    "result": {
+        "item": "orientalmagic:cinnabar",
+        "count": 9
+    },
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "orientalmagic:cinnabar_block"
+        }
+
+    ]
+
+
+}
